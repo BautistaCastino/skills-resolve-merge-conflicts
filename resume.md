@@ -2,7 +2,11 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
+ Resolving-merge-conflicts
+## Job History
+=======
 ## Jobs
+ main
 
 ### GitHub Trainer
 
