@@ -1,1 +1,5 @@
+Resolving-merge-conflicts
 1
+=======
+2
+ main
